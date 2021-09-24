@@ -1,0 +1,20 @@
+{
+    "name": "Eden.Network",
+    "rootNamespace": "Eden.Network",
+    "references": [
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Networking.Transport",
+        "Unity.Jobs"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
